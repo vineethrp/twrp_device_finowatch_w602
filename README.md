@@ -1,0 +1,1 @@
+# twrp_device_finowatch_w602
