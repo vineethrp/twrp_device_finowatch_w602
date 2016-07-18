@@ -79,4 +79,4 @@ TW_CUSTOM_CPU_TEMP_PATH := /sys/devices/virtual/thermal/thermal_zone1/temp
 TW_REBOOT_BOOTLOADER := true
 TW_REBOOT_RECOVERY := true
 TW_HAS_DOWNLOAD_MODE := true
-TW_USE_TOOLBOX := true
+TW_USE_TOOLBOX := false
